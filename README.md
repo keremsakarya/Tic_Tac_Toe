@@ -1,9 +1,13 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Tic_Tac_Toe
+
+A basic React JS project. If "x" wins, the title says " 'x' wins" or "o" wins, it says " 'o' wins". After a match or during the match, you can reset all the boxes.
+
+# Features
+
+• useState, useRef
+
+• map() method
+
+# GIF
+
+![2024-07-07 01-16-20](https://github.com/keremsakarya/Tic_Tac_Toe/assets/164352221/25393592-40af-48d0-af30-fcc04522435d)
